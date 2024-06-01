@@ -34,7 +34,7 @@ loss 1.057, train acc 0.630, valid acc 0.438
 286.1 examples/sec on [device(type='cuda', index=0)]
 ```
 
-![img1](img\1.png)
+![img1](img/1.png)
 
 ### Segundo teste:
 
@@ -48,7 +48,7 @@ loss 0.721, train acc 0.767, valid acc 0.525
 285.3 examples/sec on [device(type='cuda', index=0)]
 ```
 
-![img2](img\2.png)
+![img2](img/2.png)
 
 ### Terceiro teste:
 
@@ -62,7 +62,7 @@ loss 0.546, train acc 0.813, valid acc 0.475
 286.9 examples/sec on [device(type='cuda', index=0)]
 ```
 
-![img3](img\3.png)
+![img3](img/3.png)
 
 ### Quarto teste:
 
@@ -76,7 +76,7 @@ loss 1.464, train acc 0.477, valid acc 0.537
 286.1 examples/sec on [device(type='cuda', index=0)]
 ```
 
-![img4](img\4.png)
+![img4](img/4.png)
 
 ### 2. Implementação da API Flask
 
